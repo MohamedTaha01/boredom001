@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&family=Varela+Round&display=swap');
+
+/* body */
+body{
+  background-color: #000;
+}
+h2,h1,p{
+  color: #FAEDF0;
+  position: relative;right: 1rem;
+}
+h1{
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 6rem;padding-top: 2rem;
+  line-height: 6rem;
+}
+h2,p{
+  font-family: 'Varela Round', sans-serif;
+}
+h2{
+  font-size: 1.2rem;
+  line-height: 1rem;
+}
+p{
+  font-size: 0.8rem;
+}
+/* img */
+img{
+  width: 24rem;
+  padding-top: 3.3rem;padding-left: 2rem;
+}
+/* texts */
+.text-top{
+  position: relative;top: 2rem;padding: 0.9rem;
+  border-top: solid;border-color: #fff;border-width: 0.12rem;
+}
+.bg-p{
+  background-color: #AAA492;
+  height: 51.15rem;position: relative;top: 3.4rem;left: 7rem;
+}
+.ch01{
+  font-size: 1.4rem;line-height: 1.8rem;
+}
+
+/* rows */
+.ch01row{
+  padding-bottom: 2rem;
+}
+/* main */
+.main{
+  position: absolute;left: 30vh;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* . */
